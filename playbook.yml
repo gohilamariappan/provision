@@ -1,0 +1,13 @@
+---
+
+- hosts: local
+  become: yes
+  roles:
+    - angular
+    - apache2.2_server
+    - apache_server
+    - apache_modevasive
+    - apache_modsecurity
+    - nginx_server
+    - composer
+    - php

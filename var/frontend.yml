@@ -1,0 +1,4 @@
+---
+domain_name: example.com
+app_path: /home/master/test.html
+http_port: 80 

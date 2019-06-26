@@ -1,0 +1,4 @@
+---
+domain_name: example.com
+app_port: 9000
+http_port: 80 
